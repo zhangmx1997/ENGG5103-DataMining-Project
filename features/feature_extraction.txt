@@ -1,0 +1,114 @@
+K=4, RevcKmer start
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+Reverse Compliment Kmer, succeed for 1683 gene
+K=4, RevcKmer finished in 6.327 minutes
+K=5, RevcKmer start
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+Reverse Compliment Kmer, succeed for 1683 gene
+K=5, RevcKmer finished in 25.511 minutes
+K=4, DAC start
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+DAC, succeed for 1683 gene
+K=4, DAC finished in 22.518 minutes
+K=5, DAC start
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+DAC, succeed for 1683 gene
+K=5, DAC finished in 28.052 minutes
+PseDNC starts
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+PseDNC, succeed for 1683 gene
+PseDNC finished in 1.489 minutes
+PseKNC starts
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+PseKNC, succeed for 1683 gene
+PseKNC finished in 1.596 minutes

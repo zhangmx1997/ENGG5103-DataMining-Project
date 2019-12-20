@@ -1,0 +1,6 @@
+1683 gene
+3313 diseases
+gene2line.json
+disease2col.json
+gene2disease_matrix.txt
+valid_gene2disease.json
